@@ -1,8 +1,7 @@
-# YOLO-object-detection-with-OpenCV
+Yolo stand for You Only Look Once
 Object detection using YOLO object detector
 
-### Detect objects in both images and video streams using Deep Learning, OpenCV, and Python.
-
+Detect objects in both images and video streams using Deep Learning, OpenCV, and Python.
 I’ll be using YOLOv3 in this project, in particular, YOLO trained on the COCO dataset.
 
 The COCO dataset consists of 80 labels, including, but not limited to:
